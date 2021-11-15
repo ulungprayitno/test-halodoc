@@ -1,0 +1,1 @@
+export const baseUrl = 'https://dummyproducts-api.herokuapp.com/api/v1/products'
